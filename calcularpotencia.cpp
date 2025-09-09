@@ -13,6 +13,7 @@ int main (){
 		cout << 1;
 	
 	return 0;	
+	//se o expoente for 0 o codigo termina aqui
 	}
 	
 	acumulador=base;
